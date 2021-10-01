@@ -90,6 +90,7 @@ code,pre{
 }
 .showcase p{
     margin: 20px 0;
+    text-align: center;
 }
 .showcase .grid{
     grid-template-columns: 55% 45%;
@@ -102,7 +103,7 @@ code,pre{
 .showcase-form{
     position: relative;
     top: 60px;
-    height: 350px;
+    height: 400px;
     width: 400px;
     padding: 40px;
     z-index: 100;
